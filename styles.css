@@ -3,3 +3,8 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+.interior-bg-img {
+  background: url("./assets/interior.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
